@@ -11,7 +11,6 @@
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://www.youtube.com/watch?v=xpFQpENuSX4</sparkle:releaseNotesLink>
       <description><![CDATA[
         <ul>
             <li>🎉 New onboarding screen</li>
