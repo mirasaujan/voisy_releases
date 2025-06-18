@@ -6,10 +6,10 @@
     <language>en</language>
 
     <item>
-      <title>1.1</title>
+      <title>1.2</title>
       <pubDate>Wed, 18 Jun 2025 10:21:24 +0500</pubDate>
       <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
         <ul>
@@ -19,9 +19,9 @@
         </ul>
       ]]></description>
         <enclosure
-            url="https://mirasaujan.github.io/voisy_releases/Voisy-1.1.zip"
-            sparkle:edSignature="n5bj7vWBZvnuNdpk4RQbeHLCoYxBBscufDibkown3iKkZfcdOlCIyDa3+mikLBszMAGFUJ7fAN63iAQLO5guAQ=="
-            length="6666569"
+            url="https://mirasaujan.github.io/voisy_releases/Voisy-1.2.zip"
+            sparkle:edSignature="w+msWqh6ljqVbuHkGtWSJnG20/SzmY2p1Bwknf6s1DT9Bphpy0UmrbqhTkgNcHZe36W0L7XOlrzJ/f6T6FxZCw=="
+            length="6562090"
             type="application/octet-stream"
         />
     </item>
