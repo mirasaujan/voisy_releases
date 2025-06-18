@@ -8,13 +8,13 @@
     <item>
       <title>1.2</title>
       <pubDate>Wed, 18 Jun 2025 10:21:24 +0500</pubDate>
-      <sparkle:version>3.1</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:version>1.3</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
         <enclosure
-            url="https://mirasaujan.github.io/voisy_releases/Voisy-1.2.zip"
-            sparkle:edSignature="w+msWqh6ljqVbuHkGtWSJnG20/SzmY2p1Bwknf6s1DT9Bphpy0UmrbqhTkgNcHZe36W0L7XOlrzJ/f6T6FxZCw=="
-            length="6562090"
+            url="https://mirasaujan.github.io/voisy_releases/Voisy-1.3.zip"
+            sparkle:edSignature="dokxKCUp/RxYKjcXBpZu3K7ET9sR9YpiAM2Rb+3OC3wbOsEG/IJ1SGBdYJrAP4m4PEE8lbY7fEc1hvlL28e1DQ=="
+            length="6563073"
             type="application/octet-stream"
         />
     </item>
