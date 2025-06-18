@@ -11,13 +11,6 @@
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <ul>
-            <li>🎉 New onboarding screen</li>
-            <li>🐛 Fixed crash on startup for macOS 14.6</li>
-            <li>✨ Improved audio <a href = "https://www.youtube.com/watch?v=xpFQpENuSX4"/> processing quality</li>
-        </ul>
-      ]]></description>
         <enclosure
             url="https://mirasaujan.github.io/voisy_releases/Voisy-1.2.zip"
             sparkle:edSignature="w+msWqh6ljqVbuHkGtWSJnG20/SzmY2p1Bwknf6s1DT9Bphpy0UmrbqhTkgNcHZe36W0L7XOlrzJ/f6T6FxZCw=="
