@@ -13,6 +13,7 @@
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
       <enclosure
         url="https://mirasaujan.github.io/voisy_releases/Voisy.zip"
+        sparkle:edSignature="FZ0I7axbZomEEL667z91uXek+u/HuJbdksIeNJi5fRTZBQn8uBv1jdRs7Avp+u1JJ3ExnUersSjh3Zu/t8hFBA=="
         length="6565865"
         type="application/octet-stream" />
     </item>
