@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Voisy</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 18 Jun 2025 10:21:24 +0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="Voisy.zip" length="6565865" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 18 Jun 2025 11:37:36 +0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="Voisy.zip" length="6574954" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
