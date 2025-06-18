@@ -1,22 +1,20 @@
-<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Voisy</title>
-        <link>https://github.com/mirasaujan/voisy_releases/blob/main/appcast.xml</link>
-        <description>New version of Voisy</description>
-        <language>en</language>
+  <channel>
+    <title>Voisy</title>
+    <link>https://mirasaujan.github.io/voisy_releases/appcast.xml</link>
+    <description>New version of Voisy</description>
+    <language>en</language>
 
-        <item>
-            <title>1.1</title>
-            <pubDate>Wed, 18 Jun 2025 10:21:24 +0500</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/mirasaujan/voisy_releases/blob/main/Voisy.zip"
-                length="6565865"
-                type="application/octet-stream"
-            />
-        </item>
-    </channel>
+    <item>
+      <title>1.1</title>
+      <pubDate>Wed, 18 Jun 2025 10:21:24 +0500</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://mirasaujan.github.io/voisy_releases/Voisy.zip"
+        length="6565865"
+        type="application/octet-stream" />
+    </item>
+  </channel>
 </rss>
